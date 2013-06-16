@@ -4,8 +4,9 @@ A quick and dirty way of running Web Workers within a single
 [browserified](http://browserify.org/) bundle.
 
 Intended as a solution that works now, avoiding any significant tradeoffs
-(e.g. duplicate scripts) until the compile step doesn't need to happen
-anymore.
+(e.g. duplicate scripts). Here's hoping it gets rendered obsolete by
+[workerify](https://github.com/shama/workerify) if/when Browserify's transform
+API gets a little bit more flexible.
 
 ## Installation ##
 
