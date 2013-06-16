@@ -1,0 +1,26 @@
+{
+  "name": "worker-pack",
+  "version": "0.0.1",
+  "description": "Create Web Workers from a single Browserify bundle",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hughsk/worker-pack.git"
+  },
+  "author": "Hugh Kennedy <hughskennedy@gmail.com> (http://hughskennedy.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "through": "~2.3.4"
+  },
+  "readmeFilename": "README.md",
+  "bin": {
+    "worker-pack": "cmd.js"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "webworkers",
+    "api",
+    "bundle",
+    "browserify"
+  ]
+}
