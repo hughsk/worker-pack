@@ -1,6 +1,6 @@
 {
   "name": "worker-pack",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Create Web Workers from a single Browserify bundle",
   "main": "index.js",
   "repository": {
